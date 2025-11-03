@@ -1,1 +1,3 @@
-# ItSkills-voorbeeld
+# ItSkills-voorbeeld 
+
+Jayden Narraina
